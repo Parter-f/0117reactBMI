@@ -36,3 +36,52 @@
     transform: rotate(360deg);
   }
 }
+
+body{
+  margin: 20px;
+  max-width: 1024px;
+}
+
+#adatok{
+  background-color: rgb(255, 137, 41);
+  color: white;
+}
+#bekeres{
+  margin-top: 15px;
+}
+#magassag, #suly{
+  margin: 15px;
+  margin-bottom: 15px;
+}
+#bevitel{
+  margin-top: 5px;
+}
+#gomb{
+  margin-left: 15px;
+  margin-bottom: 15px;
+  color: rgb(255,135,40);
+  border-color:rgb(255,120,20);
+}
+#gomb:hover{
+  background-color: rgb(205, 203, 203);
+}
+#index,#index1{
+  color: rgb(239, 130, 41);
+ margin-top: 15px;
+}
+#idealertek{
+  color: rgb(239, 130, 41);
+   font-size: 20px;
+  margin-top: 20px;
+}
+#szelso_adat{
+  color: rgb(239, 130, 41);
+}
+#bmiertek{
+  color: rgb(239, 130, 41);
+ margin-top: 15px;
+}
+#eredmeny, #idealisErtek{
+  font-style: italic;
+  font-size: 30px;
+}
